@@ -1,0 +1,36 @@
+Alisa - Stay close to her so she can't charge at you
+-----
+
+- JAB STRINGS (1,2): Duck after the second jab, punish the high, low (1,2,d+2) is -11oB
+- JAB STRINGS (2,3): h,m,m or h,m,l. Mid is -10oB, Low (2,3,4) is reactable (i42)
+- Heat Engage Mixup
+	- 3,2 (mid) or 3,f+2 (high, HE)
+		- Mid is -12oB, High is +2oB
+	- f+2,3,3 or f+2,1
+		- mids, both -10oB
+- df+1,4 (mid) and df+1,1,2 (high)
+	- Mid is -11oB
+	- High is reactable, if she spins you duck and launch
+- f+4,1,4 (head throw) is homing! -12oB, can punish if you're close
+- DES (Chainsaws): SSL!
+	- Every move that ISN'T homing is SSL or SWL
+		- Homing moves: DES.1+2 (h), DES.d+2 (l)
+	- DES.f+1 is +3oB, duck it or step it
+	- DES.f+2,1,2 is -13oB, third hit is never guaranteed (unless CH)
+	- Basically all mids and lows are fully punishable on block
+- BOT (Boot, where she launches toward you): SSL!
+	- Every single thing is SSL-able
+	- React to the little backstep before the launch
+	- BOT.1,2,1,3+4 (m,m,m,m) is -18oB!!! Third and fourth hits are not guaranteed.
+- DBT (Dual Boot, or Boot with Chainsaws): SSL!
+	- Every single thing is SSL if you're close, but some may clip you if you're too far
+- f,f,F+2 and f,f,F+3(,4)
+	- f,f,F+2 is +5oB, don't press!
+	- f,f,F+3(,4) is -8oB
+	- Be close to her; can jab and float her out of it
+- Hopkick (uf+4,4): Block it all and ws2
+- d+4,1+2: Last hit 0oB, jailing!
+
+Changelog
+---
+v1, 20240221: Initial version

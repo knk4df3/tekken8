@@ -1,0 +1,236 @@
+TEKKEN 8: GENERAL
+---
+- KBD Practice!
+- Sidestep+Block
+- Getup Kicks: SWR
+
+TEKKEN 8: KEY MOVES
+---
+
+TEKKEN 8: LEO KLIESEN
+---
+# Heat Engagers
+2+3			[mid, armored]
+H.2+3		[m; +8; CD on block]
+H.KNK.2+3	[l; -13]
+db+2,4		[m,h; -9,-9]
+b+2,1+2		[m,m; -11,-11; BOK]
+ws4,1+2		[m,m; -9,-12; 11f crouching punish]
+KNK.1,2		[h,m; -9,-9]
+BOK.1+2		[m; -12; PC]
+
+# Punishes
+## Standing
+10f: 1,2		(+8)
+	 1,4 		(KNK) 		[-2oB]
+11f: 2,2 		(+6)
+13f: uf+1,2		(knd) 		[wallsplat]
+14f: b+2,1+2	(heat, +8)
+	 f+2,2		(+8)
+	 3,2~D 		(BOK, +5)
+	 f+2,4~df	(CD, +7)
+15f: df+2
+	 uf+4
+16f: db+2,4		(heat, knd)	[pushback]
+17f: f+1+2		(+10)		[pushback]
+19f: f,F+4,3	(+20)		[pushback]
+23f: uf,n+4
+
+## Crouching
+10f: FC.d+1		(+6)
+11f: ws4,1+2	(heat, knd)
+13f: ws3,1~d 	(BOK, +9)
+	 ws1+2		(+3)
+	 uf+1,2,1+2	(+11)
+15f: ws2
+		  
+## Counter Hit Fishing
+d+2			(i21, mid, +4coB)
+ub+3		(i24, mid, jump, -9oB)
+df+2+3		(i21, low, -12oB)
+db+4		(i20, low, dead on block)
+f+3+4		(i17, high, 0oB)
+KNK.2		(i13, high, -9oB)
+KNK.1+2		(i25, mid, -6oB)
+KNK.4~df	(i20, low, -12oB)
+
+# LTG (Lightning Glare) 1+2+3+4
+LTG.f+2,4,3		[confirmable 14f punish, BOK ~d]
+LTG.db+4,1,1+2	[mixup with b+3]
+LTG.b+3,1,2		[mixup with db+4]
+
+## Going in to LTG
+f,F+2~1+2
+d+4,2~1+2
+uf+1,2~1+2
+ws1+2~1+2
+
+# Mixups
+db+4	OR	uf+4
+FC.df+3	OR	ws2 
+df+2+3	OR	db+1+2,1
+
+# Hit Confirm
+db+1+2,1	[Heat Smash on hit into combo at wall]
+db+2,4		[Heat Engage extension, Heat Dash]
+
+# Stances
+
+## KNK (Jin Li Du Li) b+3+4; ~df for CD
+KNK.1(,2)	h	i18,-9,+2	[BOK option ~d, heat engage option (,2)]
+KNK.2		h 	i13,-9,+22	[fast option, knd]
+KNK.3(,4)	m	i20,-13,tor [launch option]
+KNK.4		l	i20,-12,+4c	[low option, CD option ~df (CH launch)]
+KNK.1+2		m	i25,-6,tor	[grounded option]
+KNK.3+4		l	i24,-26,+19 [TODO]
+
+## BOK (Fo Bu) d+1+2
+BOK.1(,2)	m	i13,-4,+9	[fast option, extension to launch]
+BOK.2		m	i19,-9,lc	[safe launch option]
+BOK.3		h	i21,+5,+15d	[homing option]
+BOK.4		m	i20,+9,+15g	[low crush option, auto KNK, CD option ~df]
+BOK.1+2		m	i??,-12,+15	[heat option]
+
+## CD (Jin Bu) d,df,f
+CD.1		l	i18,-13,-1	[cs, +11CH]
+CD.2		m	i17,-9,+9	[~b for KNK, 1 or 4 for extension]
+CD.3+4		m	i18,-6,+13g	[homing, jump]
+
+# Stance Transitions
+
+## To KNK (b unless listed otherwise)
+b+3+4	(stance, huge stepback)
+1,2		(-9,+2)
+1,4		(automatic; -5,+11)
+3,2,4	(automatic; +9,+15g,+19)
+f+4		(automatic; +9,+15g,+19)
+b+1,4	(automatic; +9,+15g,+19)
+b+3,1	(-10,+1)
+b+4,1~4	(+9,+15g,+19)
+BOK.4	(same as f+4)
+CD.2	(-9,+9)
+
+## To BOK (d unless listed otherwise)
+d+1+2	(stance)
+3,2		(-6,+5)
+f+3		(+2,+6,+29a)
+db+1+2	(-12,+4)
+b+1,1+2	(-10,+11)
+b+3,1	(-8,+5)
+uf+2	(-11,+21a)
+f,F+3	(0,+10d)
+ws3,1	(-10,+9)
+f+2,4,3	(LTG; +4c,+19d)
+KNK.1	(-7,+4)
+
+## To CD (df unless listed otherwise)
+H.2+3	(only on block, +16)
+f+2,4	(-1, +7)
+f+4		(-5,+1,+5)
+b+4,1~4 (-5,+1,+5)
+KNK.4	(-10,+6c,+19d)
+KNK.DF	(r12)
+BOK.4	(same as f+4)
+
+# Combos
+ BBP: b+1+2,1+2 CD.2
+BBPE: b+1,1+2~d BOK.1,2 T! BBP
+EASY: f+2 BBPE [works for df+2/uf+4/ws2/uf,n+4/KNK3/f,F+4,3/BOK2/db+3]
+ VAR: b+1,1+2 1 f+3~d BOK.1,2 T! BBP
+
+## Normal
+df+2/uf+4	VAR [on-axis+not max range: 4 f+2 BBPE]
+ws2/uf,n+4	VAR
+KNK.3		f+2 BBPE
+f,F+4,3		EASY
+uf+2,1		d+4,2
+BOK.1,2		T! b+1,4~df ws3 f+4~df ws3,1,2
+BOK.2		f+3 4 BBPE
+db+3		f+3 f+2 BBPE
+Low Parry	VAR [or, df+2+3 ws3 b+1,4~df ws3 f+4~df CD.2,4]
+
+## Sidestep
+df+2/uf+4 SSL	4 BBPE
+          SSR	VAR [SSL before BBP]
+
+## Counter Hit (TODO: Try EASY after these)
+4, 			BOK.1+2 d+3+4
+CD.1		ws4,1+2 (heat)
+b+1+4		b+3,1,2 (LTG)
+d+2 		f+3 2 BBPE
+ub+3		4 BBPE
+df+2+3		ws3 BBPE
+db+4		df+2+3 ws3 BBPE (whiffs at max range)
+f+1+2		b+1,1+2	BBPE
+f+3+4		f+2 4 BBPE
+KNK.2		df+2+3 ws3 BBPE
+KNK.1+2		f+3 f+2	BBPE
+KNK.4~df	ws3 4 b+1,1+2~d BOK.1,2 T! f+4~df cd2,4
+
+## Wall Carry
+For normal df+2 starter and (A) wall ender
+(In Long to Short Order)
+b+1,1+2 f+4~df ws3 f+4~df ws3 HB SSR f+3+4 BOK.1+2~f ws1,4,1
+b+1,4~df ws3 f+4~df ws3 f+4~df CD.2,1
+f+2 b+1,4~df ws3 f+4~df ws3,1,2
+f+2 b+1,4~df ws3 f+4~df CD.2,1
+f+2 b+1,4~df ws3 f+4,2
+f+2 b+1,4~df ws3,1,2		
+
+# Wall
+(A) b+1,4 KNK.3,4 T! ws1,4,1
+(B) 3,2,3 T! BOK.1+2 (d+3+4 OR df+2+3 OR BOK.1+2)
+
+## Splats
+Normal: uf1,2	db+1+2,1	f,F+2	f+1+2	df+3	db+2,4	f+2,4,3
+   Far: db+4,1	uf+2,1		KNK.2+3
+
+# Frame Traps
+
+## 1st Hit On Block
+d+2		(m)	+4
+BOK.4	(m)	+4
+BOK.3	(h)	+5
+iwr3	(m)	+6
+
+## 2nd Hit
+df+1,2	(m,h)	(-1,-6oB)	[i13~i14]
+uf+1,2	(h,m)	(-6,-14oB)	[i13]
+3,2		(h,h)	(-8,-2oB)	[i14]
+db+2,4	(m,h)	(-9,-9oB)	[i16]
+d+4,2	(l,h)	(-11,-5oB)	[i16~i17]
+d+1		(m)		(-2oB)		[i18~i19]
+
+## 1st Hit On Hit
+df+2+3 (l, +5)	→ ws3(,1,2)	(m -6oB)
+KNK.4 (l, +4c)	→ df+1,2	(-1,-6oB)
+				
+# Parries
+b+1+3~2 [high/mid punch/kick]
+b+2+4	[high/mid punch/kick]
+ub+1~4	[high/mid kick]
+b+2+3	[high/mid punch sabaki]
+
+# Good Moves
+f,F+2	[approach tool; hold 1+2 for LTG]
+uf+2,1	[BOK option ~d after first hit, Heat Smash to combo]
+CD.2,1	[oki at wall, beats everything except stay grounded]
+		[also Heat Smash combo starter on counter]
+
+# To Practice (EX KEAN)
+1. iWS3 [d,df,n,3] pickups
+2. db+1+2,1 hit confirm
+3. Moves that are plus on hit and leave you close enough for mixup
+   d+2	KNK.4	???more???
+4. KNK cancels for wall carry in combos
+   f+4,df,u
+5. With LTG: end combos with b+4,1~4~df for mid-low mixup
+             punish -13 lows with ws1+2 for mixup (use ws4,1+2 with heat)
+			 
+# Potential Frame Traps
+df4 qcf2 ss1+2 ff2 f3+4 u1 uf11 u3 df3 bok2 db3 on block 
+d4 b1+4 on hit
+
+Changelog
+---
+v1 20240221: Initial version, excuse the mess.
